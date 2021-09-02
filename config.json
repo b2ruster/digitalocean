@@ -1,0 +1,106 @@
+{
+    "access_token": "ya29.a0ARrdaM-0r1SOlJqbWSUNwqaQBDrYl8dhsZS9ggs12yZLeZebOdfyS8ExUyZ1Sfg60CTWUOY5UChvmnp8uxR0KozskW1hzcKLn0GnKAahNE_1C6oRfMzr3c_aaenQLdFOUPY2A3Z0YX8zXuj_4tkssUCL6UTkcg",
+    "account_list": [
+        {
+            "auth": "ussjk76kkn1y9yolqqea88oa4o6erahhkmv3ndsoknljlscxpm",
+            "password": "D294753618",
+            "pic": "https://imgix.kotaku.com.au/content/uploads/sites/3/2014/09/10/dpmnoil1loqwkdhostd6.jpg?ar=16%3A9&auto=format&fit=crop&q=65&nrs=40",
+            "username": "nko.digital11"
+        },
+        {
+            "auth": "jr05chizfn5jhndy9itlkepjcyqy6gl8ga1ytsx3yb80zj51s0",
+            "password": "09777670788",
+            "pic": "",
+            "username": "gae"
+        },
+        {
+            "auth": "cziaooj4k3tqhf697c8chgba0w24pv6ih1wdpyjaz6finnfsj4",
+            "password": "09445107623",
+            "pic": "",
+            "username": "mg nge"
+        }
+    ],
+    "adult": "false",
+    "arcio": "dev",
+    "auth": "true",
+    "build_interval": 360,
+    "build_type": "hybrid",
+    "category_list": [
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1MALTHoo9kIzhQ6nHD8OWeMUR9nel-5jD",
+            "language": "en",
+            "name": "🎬 Movies",
+            "type": "Movies"
+        },
+        {
+            "anilist": false,
+            "id": "1MNjqg_UXEVzCQaLWLPOGbcdeiSwf5E6q",
+            "language": "en",
+            "name": "Bollywood Movies ",
+            "type": "Movies"
+        },
+        {
+            "anilist": false,
+            "id": "1MP2y2uwpbdYtVYpmlFS_8Fxe2bItDOwH",
+            "language": "en",
+            "name": "Chinese Series",
+            "type": "TV Shows"
+        },
+        {
+            "anilist": false,
+            "id": "1MP_TEcfGLrqK8xDphP6EatzY2fK-nksS",
+            "language": "en",
+            "name": "Korea Series",
+            "type": "TV Shows"
+        },
+        {
+            "anilist": false,
+            "id": "1MTSSy3sN7PGWqSezefIHgCBN7z4XiFzQ",
+            "language": "en",
+            "name": "English Series",
+            "type": "TV Shows"
+        },
+        {
+            "anilist": false,
+            "id": "1MX1UPJB08t1qm4KVGQHVURhoGUq5cOmN",
+            "language": "en",
+            "name": "Thai Series",
+            "type": "TV Shows"
+        },
+        {
+            "anilist": false,
+            "id": "1AiCyaCCGPISRzoOgDuGeKMX9wNkhYjys",
+            "language": "en",
+            "name": "Animation Series",
+            "type": "TV Shows"
+        },
+        {
+            "anilist": false,
+            "id": "1FMgAof73S9H5nyzk56GlVgF2dF81npSu",
+            "language": "en",
+            "name": "Bollywood Series",
+            "type": "TV Shows"
+        }
+    ],
+    "client_id": "861126824579-mpels311601aou4osvd1cmosop93na4p.apps.googleusercontent.com",
+    "client_secret": "HX8MygjShgy1kvqUHIm3AZLW",
+    "cloudflare": "https://videostreaming.nkodigital11.workers.dev/",
+    "fetch_assets": "false",
+    "prefer_mkv": "false",
+    "prefer_mp4": "true",
+    "refresh_token": "1//0gdemHXxK61QkCgYIARAAGBASNwF-L9IrnQx9ZA9u15UDKE7M2Aib8qNUsXRcXzG8mo_BbJ1yDQo25wLqPI0K1dm9Sn_oqI-k5sE",
+    "remove_duplicates": "false",
+    "secret_key": "@libdrivenko",
+    "service_accounts": [],
+    "signup": "false",
+    "subtitles": false,
+    "tmdb_api_key": "4e60d444485ea3646afdec91e9bd4d52",
+    "token_expiry": "2021-09-02 06:31:20.189539",
+    "transcoded": "true",
+    "ui_config": {
+        "custom_button": {},
+        "title": "NkoDigital"
+    }
+}
