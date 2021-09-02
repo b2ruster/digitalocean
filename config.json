@@ -1,0 +1,97 @@
+{
+    "access_token": "ya29.a0ARrdaM-_AxMtxRhqytSsCgCSOjt4sWjp3zgGyG1vRFoxUMQbPgKCzXM1wxUJdigLCNtANfiRE7b7dyKwPKX4Ig2Rh8R3mtbYZyI9ekd53jEAmdd_5NdDIvfCARvxV4V3LOGJUXoYB-Bcu37ma_yJ42rABYvd",
+    "account_list": [
+        {
+            "username": "test",
+            "password": "test",
+            "pic": "",
+            "auth": "1w75jddak8yqr6f03u25qm7k0p85ewf6kvlp505w13up3jgezz"
+        }
+    ],
+    "adult": "false",
+    "arcio": "dev",
+    "auth": "true",
+    "build_interval": 360,
+    "build_type": "hybrid",
+    "category_list": [
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "1MALTHoo9kIzhQ6nHD8OWeMUR9nel-5jD",
+            "language": "en",
+            "name": "🎬 Movies",
+            "type": "Movies"
+        },
+        {
+            "anilist": false,
+            "id": "1MNjqg_UXEVzCQaLWLPOGbcdeiSwf5E6q",
+            "language": "en",
+            "name": "Bollywood Movies ",
+            "type": "Movies"
+        },
+        {
+            "anilist": false,
+            "id": "1MP2y2uwpbdYtVYpmlFS_8Fxe2bItDOwH",
+            "language": "en",
+            "name": "Chinese Series",
+            "type": "TV Shows"
+        },
+        {
+            "anilist": false,
+            "id": "1MP_TEcfGLrqK8xDphP6EatzY2fK-nksS",
+            "language": "en",
+            "name": "Korea Series",
+            "type": "TV Shows"
+        },
+        {
+            "anilist": false,
+            "id": "1MTSSy3sN7PGWqSezefIHgCBN7z4XiFzQ",
+            "language": "en",
+            "name": "English Series",
+            "type": "TV Shows"
+        },
+        {
+            "anilist": false,
+            "id": "1MX1UPJB08t1qm4KVGQHVURhoGUq5cOmN",
+            "language": "en",
+            "name": "Thai Series",
+            "type": "TV Shows"
+        },
+        {
+            "adult": false,
+            "anilist": true,
+            "id": "1AiCyaCCGPISRzoOgDuGeKMX9wNkhYjys",
+            "language": "en",
+            "name": "Animation Series",
+            "type": "TV Shows"
+        },
+        {
+            "adult": false,
+            "anilist": false,
+            "id": "FMgAof73S9H5nyzk56GlVgF2dF81npSu",
+            "language": "en",
+            "name": "Bollywood Series",
+            "type": "TV Shows"
+        }
+    ],
+    "client_id": "861126824579-mpels311601aou4osvd1cmosop93na4p.apps.googleusercontent.com",
+    "client_secret": "HX8MygjShgy1kvqUHIm3AZLW",
+    "cloudflare": "https://videostreaming.nkodigital11.workers.dev/",
+    "fetch_assets": "false",
+    "refresh_token": "1//0gdemHXxK61QkCgYIARAAGBASNwF-L9IrnQx9ZA9u15UDKE7M2Aib8qNUsXRcXzG8mo_BbJ1yDQo25wLqPI0K1dm9Sn_oqI-k5sE",
+    "remove_duplicates": "false",
+    "remove_no_poster": false,
+    "secret_key": "@test",
+    "tmdb_api_key": "4e60d444485ea3646afdec91e9bd4d52",
+    "token_expiry": "",
+    "prefer_mkv": "false",
+    "prefer_mp4": "true",
+    "transcoded": "true",
+    "service_accounts": [],
+    "signup": "false",
+    "ui_config": {
+        "custom_button": {},
+        "title": "Digital's Movies & Series",
+        "icon_on_nav": false
+    }
+}
