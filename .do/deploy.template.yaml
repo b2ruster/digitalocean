@@ -1,3 +1,10 @@
+spec:
+ name: libDrive
+ services:
+ - name: web
+   git:
+     branch: main
+     repo_clone_url: https://github.com/libDrive/libDrive.git
 {
   "name": "libDrive",
   "description": "libDrive is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.",
