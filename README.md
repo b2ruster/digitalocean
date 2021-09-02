@@ -21,8 +21,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/42px-Telegram_logo.svg.png" width="42" />
   </a>
 </p>
-(https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/b2ruster/heroku/tree/main)
-
+<a href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/b2ruster/heroku/tree/main">
+ <img src="https://www.deploytodo.com/do-btn-blue.svg" alt="Deploy to DO">
+</a>
 # What is this repo?
 
 libDrive is a Google Drive media library manager and indexer, similar to Plex, that organizes Google Drive media to offer an intuitive and user-friendly experience.
