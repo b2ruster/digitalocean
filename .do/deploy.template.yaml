@@ -36,6 +36,4 @@ spec:
       "value": "1",
       "required": true
     }
-  },
-  "stack": "container"
-}
+ }
