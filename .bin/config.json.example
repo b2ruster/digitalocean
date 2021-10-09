@@ -1,0 +1,57 @@
+{
+    "access_token": "",
+    "account_list": [
+        {
+            "auth": "",
+            "password": "",
+            "pic": "",
+            "username": ""
+        }
+    ],
+    "adult": false,
+    "arcio": "dev",
+    "auth": true,
+    "build_interval": 360,
+    "build_type": "hybrid",
+    "category_list": [
+        {
+            "anilist": false,
+            "id": "",
+            "language": "en",
+            "name": "",
+            "type": "Movies"
+        },
+        {
+            "anilist": false,
+            "id": "",
+            "language": "en",
+            "name": "",
+            "type": "TV Shows"
+        }       
+    ],
+    "client_id": "",
+    "client_secret": "",
+    "cloudflare": "",
+    "fetch_assets": false,
+    "refresh_token": "",
+    "remove_duplicates": false,
+    "remove_no_poster": false,
+    "secret_key": "",
+    "tmdb_api_key": "",
+    "token_expiry": "",
+    "prefer_mkv": false,
+    "prefer_mp4": true,
+    "transcoded": false,
+    "service_accounts": [],
+    "signup": false,
+    "ui_config": {
+        "custom_button": {
+            "text": "",
+            "url": ""
+        },
+        "icon": "https://avatars.githubusercontent.com/u/75073550?v=4",
+        "icon_on_nav": false,
+        "range": "16",
+        "title": "libdrive"
+    }
+}
